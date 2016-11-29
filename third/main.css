@@ -1,0 +1,53 @@
+.container {
+  width: 500px;
+}
+
+.top {
+  display: inline-block;
+  width: 500px;
+  height: 60px;
+  background: #d8d8d8;
+  float: left;
+}
+
+.blue-box {
+  width: 48px;
+  height: 48px;
+  background: #4a90e2;
+  margin: 6px;
+  margin-left: 15px;
+}
+
+.text {
+  display: inline-block;
+  background: white;
+  padding: 15px 30px 15px 30px;
+}
+
+.blue {
+  display: inline-block;
+  width: 500px;
+  height: 70px;
+  background: #4a90e2;
+}
+
+.green {
+  display: inline-block;
+  width: 500px;
+  height: 70px;
+  background: #50e3c2;
+}
+
+.olive {
+  display: inline-block;
+  width: 500px;
+  height: 70px;
+  background: #b8e986;
+}
+
+.yellow {
+  display: inline-block;
+  width: 500px;
+  height: 70px;
+  background: #f8e71c;
+}
