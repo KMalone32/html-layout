@@ -1,0 +1,43 @@
+body {
+  width: 360px;
+  display: inline-block;
+
+}
+
+.left {
+  float: left;
+  display: inline-block;
+  background: #4a90e2;
+  width: 120px;
+  height: 350px;
+}
+
+.middle {
+  float: left;
+  display: inline-block;
+  background: #50e3c2;
+  width: 120px;
+  height: 350px;
+}
+
+.right {
+  float: left;
+  display: inline-block;
+  background: #b8e986;
+  width: 120px;
+  height: 280px;
+}
+
+.bottom {
+  display: inline-block;
+  background: #d0021b;
+  width: 120px;
+  height: 70px;
+}
+
+.bottom p {
+  font-size: 10px;
+  font-family: sans-serif;
+  color: white;
+  padding: 30px 15px 15px 18px;
+}
