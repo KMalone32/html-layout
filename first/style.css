@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+
+.container {
+  margin: auto;
+  margin-top: 20px;
+  width: 900px;
+}
+
+.top {
+  display: inline-block;
+  background: #444444;
+  width: 900px;
+  height: 120px;
+}
+
+.left-right {
+  display: inline-block;
+  background: #d8d8d8;
+  width: 15%;
+  height: 700px;
+}
+
+#left {
+  float: left;
+}
+
+#right {
+  float: right;
+}
+
+.middle {
+  display: inline-block;
+  background: #efefef;
+  width: 70%;
+  height: 600px;
+}
+
+.bottom {
+  display: inline-block;
+  background: #222222;
+  width: 70%;
+  height: 100px;
+}
